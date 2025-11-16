@@ -1,0 +1,11 @@
+{
+  "name": "n8n-deploy",
+  "version": "1.0.0",
+  "description": "n8n workflow deployment on Railway",
+  "scripts": {
+    "start": "n8n"
+  },
+  "dependencies": {
+    "n8n": "^2.227.0"
+  }
+}
